@@ -1,4 +1,4 @@
-🔰## kpmg-sprocket-customer-analysis
+🔰 ## Kpmg-Sprocket-Customer-Analysis
 
 📌 **Project Overview**  
 This project aims to analyze customer data of Sprocket Central Pty Ltd, a company that sells bicycles and cycling accessories. 

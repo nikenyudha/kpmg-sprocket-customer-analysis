@@ -9,11 +9,11 @@ The dataset comes from KPMG Sprocket Central in Excel format and was processed u
  
 📊 **Analysis performed:**
 Data Processing: Combining three main datasets:
-*Customer Demographics*
-*Customer Address*
-*Transactions*
+- *Customer Demographics*
+- *Customer Address*
+- *Transactions*
 
-🚀 Data Exploration:
+🚀 **Data Exploration:**
 - Identifying customer behavior patterns based on previous transactions.
 - Analyzing customer demographics that contribute to the highest sales.
 - Data Visualization: Using Matplotlib and Seaborn to present key trends.
